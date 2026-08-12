@@ -1,16 +1,31 @@
-## Hi there 👋
+# Badal Raj
 
-<!--
-**badalraj9/badalraj9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineering | Software Architecture | Systems Design**
 
-Here are some ideas to get you started:
+**Research-driven development | Architecture | Iteration | Experimental software**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Backend engineer focused on designing and building software architectures through research, implementation, and iteration.
+
+I enjoy working on problems where the structure of the software matters — how components communicate, how state is represented, how information moves through a system, and how an architecture evolves as implementation exposes new constraints.
+
+## Focus
+
+**Backend Systems | Software Architecture | Data & State | Real-Time Communication | Infrastructure | Experimental Software**
+
+## Current Work
+
+**MemoryThread | Marey | SENTRY | RCU**
+
+Exploring different approaches to memory, perception, collaboration, communication, and backend architecture through implementation and progressive refinement.
+
+## Approach
+
+**Problem → Research → Design → Build → Evaluate → Iterate**
+
+## Links
+
+**[GitHub](https://github.com/badalraj9) | [LinkedIn](YOUR_LINKEDIN_URL)**
