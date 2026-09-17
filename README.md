@@ -6,4 +6,4 @@ Research-driven development | Architecture | Iteration | Experimental Software
 
 I design and build backend software by researching problems, exploring architectures, and iterating through implementation.
 
-**MemoryThread | Marey | SENTRY | RCU**
+Building: MemoryThread · Marey · SENTRY · RCU
